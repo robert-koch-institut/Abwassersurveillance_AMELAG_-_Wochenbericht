@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+type: software
+title: Abwassersurveillance AMELAG - Wochenbericht
+abstract: >-
+  Im Rahmen des Vorhabens „Abwassermonitoring für die epidemiologische
+  Lagebewertung“ (AMELAG) wird in Deutschland das Abwasser von ausgewählten
+  Kläranlagen auf verschiedene Krankheitserreger untersucht. Der folgende
+  Bericht präsentiert die vergangenen und aktuellen Ergebnisse und Entwicklungen
+  dieser Untersuchungen.
+date-released: '2025-06-19'
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - Human Respiratory Syncytial Virus
+  - Influenza
+  - Abwasserbasierte epidemiologische Überwachung
+  - Wastewater-Based Epidemiological Monitoring
+  - Umweltüberwachung
+  - Environmental Monitoring
+  - Epidemiologie
+  - Gesundheitsberichterstattung
+  - Public health surveillance
+  - Epidemiology
+  - Deutschland
+  - Germany
+  - Open Data
+  - Offene Daten
+  - RKI
+message: Cite me!
+url: >-
+  https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht
+license: CC-BY-4.0
+doi: 10.5281/zenodo.15269118
+version: '2025-06-19T16:12:31+02:00'
+authors:
+  - name: Robert Koch-Institut
+    email: info@rki.de
+  - name: Umweltbundesamt

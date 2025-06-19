@@ -1,0 +1,120 @@
+{
+  "title": "Abwassersurveillance AMELAG - Wochenbericht",
+  "description": "<p>Im Rahmen des Vorhabens „Abwassermonitoring für die epidemiologische Lagebewertung“ (AMELAG) wird in Deutschland das Abwasser von ausgewählten Kläranlagen auf verschiedene Krankheitserreger untersucht. Der folgende Bericht präsentiert die vergangenen und aktuellen Ergebnisse und Entwicklungen dieser Untersuchungen.</p>\n",
+  "resource_type": {
+    "id": "publication-report"
+  },
+  "publication_date": "2025-06-19",
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Robert Koch-Institut"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Umweltbundesamt"
+      }
+    }
+  ],
+  "contributors": [],
+  "publisher": "Zenodo",
+  "version": "2025-06-19",
+  "dates": [
+    {
+      "date": "2025-06-19T16:12:31+02:00",
+      "type": {
+        "id": "created"
+      },
+      "description": "Date when the dataset was created"
+    }
+  ],
+  "languages": [
+    {
+      "id": "deu"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "relation_type": {
+        "id": "issupplementto"
+      },
+      "identifier": "https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht",
+      "resource_type": {
+        "id": "publication-report"
+      }
+    }
+  ],
+  "rights": [
+    {
+      "id": "cc-by-4.0"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "COVID-19"
+    },
+    {
+      "subject": "SARS-CoV-2"
+    },
+    {
+      "subject": "Human Respiratory Syncytial Virus"
+    },
+    {
+      "subject": "Influenza"
+    },
+    {
+      "subject": "Abwasserbasierte epidemiologische Überwachung"
+    },
+    {
+      "subject": "Wastewater-Based Epidemiological Monitoring"
+    },
+    {
+      "subject": "Umweltüberwachung"
+    },
+    {
+      "subject": "Environmental Monitoring"
+    },
+    {
+      "subject": "Deutschland"
+    },
+    {
+      "subject": "Germany"
+    },
+    {
+      "subject": "Open Data"
+    },
+    {
+      "subject": "Offene Daten"
+    },
+    {
+      "subject": "RKI"
+    }
+  ],
+  "custom_fields": {
+    "legacy:communities": [
+      "robertkochinstitut"
+    ],
+    "legacy:subjects": [
+      {
+        "term": "Epidemiologie",
+        "identifier": "info:ddc/22/de//614.4"
+      },
+      {
+        "term": "Gesundheitsberichterstattung",
+        "identifier": "info:ddc/22/de//614.42"
+      },
+      {
+        "term": "Public health surveillance",
+        "identifier": "info:ddc/22/eng//614.42"
+      },
+      {
+        "term": "Epidemiology",
+        "identifier": "info:ddc/22/eng//614.4"
+      }
+    ]
+  }
+}
