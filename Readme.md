@@ -1,21 +1,32 @@
 <!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation
 # Abwassersurveillance AMELAG - Wochenbericht
 
-<br>
-<br>
-<br>
+<br> 
+<br> 
+<br> 
 
-[**Robert Koch-Institut**](https://www.rki.de) & [**Umweltbundesamt**](https://www.umweltbundesamt.de/)
+[**Robert Koch-Institut**](https://www.rki.de/), & [**Umweltbundesamt**](https://www.umweltbundesamt.de/)
 
-<br>
+<br> 
 
----
+
+
+
+
+<br> 
+
 **Zitieren**  
-Robert Koch-Institut und Umweltbundesamt (2025): Abwassersurveillance AMELAG -Wochenbericht, Berlin: Zenodo. [DOI: 10.5281/zenodo.15269118](https://doi.org/10.5281/zenodo.15269118)
+Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5072/zenodo.15269118](https://doi.org/10.5072/zenodo.15269118)
+
+
+
 <!-- HEADER_END -->
 
 ---
-[**--- see English version below ---**](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/tree/main?tab=readme-ov-file#Wastewater-surveillance-AMELAG---Weekly-Report)
+[**--- see English version below ---**](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/tree/main?tab=readme-ov-file#Wastewater-Surveillance-AMELAG---Weekly-Report)
 
 ## Informationen zum Entstehungskontext
 Das Vorhaben „Abwassermonitoring für die epidemiologische Lagebewertung“ (AMELAG) arbeiten Behörden, Kläranlagen und Labore zusammen, um Proben zu nehmen, zu analysieren und zu bewerten. Das Ziel dieses Vorhabens ist es, Erregernachweise aus dem Abwasser als zusätzlichen Indikator zur epidemiologischen Lagebewertung auf Länder- und Bundesebene zu etablieren. Aktuell werden Abwasserproben von ausgewählten Kläranlagen auf SARS-CoV-2, Influenzaviren und Respiratorische Synzytial-Viren (RSV) untersucht. Die erhobenen Daten werden im „Abwassersurveillance AMELAG - Wochenbericht“  interaktiv visualisiert und kontextualisiert.
@@ -24,11 +35,11 @@ Das Vorhaben „Abwassermonitoring für die epidemiologische Lagebewertung“ (A
 
 An dieser Stelle finden Sie den interaktiven Wochenbericht mit den epidemiologischen Auswertungen der Daten aus dem Abwassermonitorings.
 
-> [Abwassersurveillance_AMELAG - Interaktiver Wochenbericht](https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht)
+> [Abwassersurveillance AMELAG - Wochenbericht](https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht)
 
 Die dem Bericht zugrundeliegenden Daten der Abwassersurveillance AMELAG sind als Open Data verfügbar:
 
-> Robert Koch-Institut (2025): Abwassersurveillance AMELAG, Berlin: Zenodo. [DOI: 10.5281/zenodo.10782701](https://doi.org/10.5281/zenodo.10782701)
+> Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG [Data set]. Zenodo. DOI: 10.5281/zenodo.10782701
 
 ## Administrative und organisatorische Angaben 
 
@@ -45,47 +56,65 @@ Die Erarbeitung des interaktiven Berichts erfolgt durch das [Fachgebiet 32 | Sur
 Die Aufbereitung und Veröffentlichung der Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF 4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
 <!-- FOOTER_START: {"lang": "de"} -->
+
+
+
 ### Metadaten  
 
 Zur Erhöhung der Auffindbarkeit ist der interaktive Bericht mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
 
-> [Metadaten/](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/tree/main/Metadaten/) 
+> [Metadaten/](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
  
-> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/Metadaten/zenodo.json)  
+> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json)  
 
 ## Hinweise zur Nachnutzung des Berichts  
 
-Interaktive Berichte des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
+Interaktive Berichte des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/) und [OpenCoDE](https://gitlab.opencode.de) bereitgestellt:  
 
 - https://zenodo.org/communities/robertkochinstitut  
 - https://github.com/robert-koch-institut  
-- https://edoc.rki.de/  
+- https://gitlab.opencode.de/robert-koch-institut
  
 ### Lizenz  
 
-Der interaktive Bericht "Abwassersurveillance AMELAG-Wochenbericht" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der interaktive Bericht "Abwassersurveillance AMELAG - Wochenbericht" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Bericht bereitgestellten Informationen sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Berichts zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/LIZENZ) Datei des Berichts.  
- <!-- FOOTER_END -->
+Die im Bericht bereitgestellten Informationen sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Berichts zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LIZENZ) Datei des Berichts.  
+<!-- FOOTER_END -->
+
+
+<br><br><br>
+----------------------
+<br><br><br>
+
  
 <!-- HEADER_START: {"lang": "en"} -->
-# Wastewater surveillance AMELAG - Weekly Report  
 
-**[Robert Koch Institute | RKI](https://www.rki.de/EN)**   
-Nordufer 20  
-13353 Berlin  
 
-<br>
+Documentation
+# Wastewater Surveillance AMELAG - Weekly Report
 
-**Unit 32 | Surveillance** 
+<br> 
+<br> 
+<br> 
 
-<br>
+[**Robert Koch Institute**](https://www.rki.de/), & [**Federal Environment Agency**](https://www.umweltbundesamt.de/en)
+
+<br> 
+
+
+
+
+
+<br> 
 
 **Cite**  
+Robert Koch Institute, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5072/zenodo.15269118](https://doi.org/10.5072/zenodo.15269118)
 
-Robert Koch-Institut, F. 32 . (2025). Abwassersurveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14859180](https://doi.org/10.5281/zenodo.14859180)
+
+
 <!-- HEADER_END -->
 
 ---
@@ -96,18 +125,18 @@ In AMELAG (“Abwassermonitoring für die epidemiologische Lagebewertung”, Ger
 
 ## Interactive report and data provision
 Here you find the interactive weekly report with the epidemiological evaluations of the wastewater monitoring data. 
-> [Abwassersurveillance_AMELAG - Interactive Weekly Report](https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht)
+> [Wastewater Surveillance AMELAG - Weekly Report](https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht)
 
 
 It is based on the AMELAG wastewater surveillance data, which is available as open data:
 
-> Robert Koch-Institut, F. 32 . (2025). Abwassersurveillance AMELAG [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15268185
+> Robert Koch-Institut, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG [Data set]. Zenodo. DOI: 10.5281/zenodo.10782701
 
 
 ## Administrative and organizational information
 
 AMELAG is a project funded by the [Federal Ministry of Health (BMG)](https://www.bundesgesundheitsministerium.de/en/index.html) and is being conducted in cooperation with the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and [Consumer Protection (BMUV)](https://www.bmuv.de/en/).
-The project is being carried out jointly by the Robert Koch Institute (RKI) and the [Federal Environment Agency (UBA)](https://www.umweltbundesamt.de/en). Further information on AMELAG can be found on the [project website](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Div32/WastewaterSurveillance/WastewaterSurveillance.html).  
+The project is being carried out jointly by the Robert Koch Institute (RKI) and the [Federal Environment Agency (UBA)](https://www.umweltbundesamt.de/en). Further information on AMELAG can be found on the [project website](https://www.rki.de/EN/Topics/Research-and-data/Surveillance-panel/Wastewater-surveillance/wastewater-surveillance-node.html).  
 The participating WWTPs are responsible for taking samples, which are analyzed by the participating laboratories. In addition to commercial laboratories, state laboratories and the Federal Environment Agency, the Central Medical Service of the German Armed Forces also carries out part of the analysis.
 
 Some of the WWTPs and laboratories are also involved in wastewater surveillance projects in the federal states or in other research projects.  
@@ -119,28 +148,32 @@ The interactive report is prepared by [Unit 32 | Surveillance ](https://www.rki.
 The report is edited and published by the Unit [MF 4 | Domain Specific Data and Research Data Management](https://www.rki.de/EN/Institute/Organisation/Departments/MFI/MF4/mf4-domain-specific-data-and-research-data-management-node.html). Questions about data management and the publication infrastructure can be directed to the Open Data team of the MF4 department at [OpenData@rki.de](mailto:OpenData@rki.de).
 
 <!-- FOOTER_START: {"lang": "en"} -->
+
+
 ### Metadata
 
 To increase findability, the provided interactive report is described with metadata. The metadata are distributed to the relevant platforms via GitHub Actions. There is a specific metadata file for each platform; these are stored in the metadata folder:
 
-> [Metadaten/](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/tree/main/Metadaten/)
+> [Metadaten/](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/tree/main/Metadaten/)
 
-Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org). The metadata prepared for import into Zenodo are stored in the [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/Metadaten/zenodo.json). Documentation of the individual metadata variables can be found at https://developers.zenodo.org/representation.
+Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org). The metadata prepared for import into Zenodo are stored in the [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json). Documentation of the individual metadata variables can be found at https://developers.zenodo.org/representation.
 
-> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/Metadaten/zenodo.json)
+> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json)
 
 ## Guidelines for Reuse of the Report
 
-Interactive reports from the RKI are available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [Edoc.rki.de](http://Edoc.rki.de/):
+This interactive reports published by the RKI is available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [OpenCoDE](https://gitlab.opencode.de):
 
 - https://zenodo.org/communities/robertkochinstitut
 - https://github.com/robert-koch-institut
-- https://edoc.rki.de/
+- https://gitlab.opencode.de/robert-koch-institut
 
 ### License
 
-The interactive report "Wastewater Surveillance AMELAG - Weekly Report"  is licensed under the [Creative Commons Attribution 4.0 International Public License | CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en).
+The interactive report "Wastewater Surveillance AMELAG - Weekly Report" is licensed under the [Creative Commons Attribution 4.0 International Public License | CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 The information provided in this report is freely available, with the condition of attributing the Robert Koch Institute as the source, for anyone to process and modify, create derivatives of the report and use them for commercial and non-commercial purposes.  
-Further information about the license can be found in the [LICENSE](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/LICENSE) or [LIZENZ](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG-Wochenbericht/blob/main/LIZENZ) file of the report.
+Further information about the license can be found in the [LICENSE](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LICENSE) or [LIZENZ](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LIZENZ) file of the report.
+
+
 <!-- FOOTER_END -->
