@@ -27,7 +27,7 @@
     "Offene Daten",
     "RKI"
   ],
-  "publication_date": "2025-07-16",
+  "publication_date": "2025-07-17",
   "version": "2025-07-16",
   "upload_type": "publication",
   "publication_type": "report",
@@ -59,8 +59,8 @@
   ],
   "dates": [
     {
-      "start": "2025-07-16T15:00:09+02:00",
-      "end": "2025-07-16T15:00:09+02:00",
+      "start": "2025-07-17T15:52:08+02:00",
+      "end": "2025-07-17T15:52:08+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
