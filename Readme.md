@@ -19,7 +19,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.16036845](https://doi.org/10.5281/zenodo.16036845)
+Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.16363981](https://doi.org/10.5281/zenodo.16363981)
 
 
 
@@ -111,7 +111,7 @@ Documentation
 <br> 
 
 **Cite**  
-Robert Koch Institute, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.16036845](https://doi.org/10.5281/zenodo.16036845)
+Robert Koch Institute, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.16363981](https://doi.org/10.5281/zenodo.16363981)
 
 
 
