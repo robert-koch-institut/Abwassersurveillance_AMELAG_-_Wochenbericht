@@ -19,10 +19,9 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.15791346](https://doi.org/10.5281/zenodo.15791346)
+Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.16965149](https://doi.org/10.5281/zenodo.16965149)
 
 <br>
-
 
 **Zusammenfassung**    
 Im interaktiven Bericht "Abwassersurveillance AMELAG - Wochenbericht" des Robert Koch-Instituts und Umweltbundesamts werden die Daten aus der Überwachung von Infektionserregern im Abwasser dargestellt. Die Daten zur SARS-CoV-2-Viruslast werden seit Februar 2022 in einem bundesweiten Netzwerk von Kläranlagen, Laboren und Behörden erhoben. Seitdem wurden die Daten um die Viruslast weiterer respiratorischer Viren (Influenza A/B, RSV) ergänzt. Der Bericht enthält neben Einzelwerten der Kläranlagen auch bevölkerungsgewichtete, aggregierte Zeitreihen.
