@@ -20,7 +20,7 @@ Documentation
 <br> 
 
 **Cite**  
-Robert Koch Institute, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.17803377](https://doi.org/10.5281/zenodo.17803377)
+Robert Koch Institute, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.17880355](https://doi.org/10.5281/zenodo.17880355)
 
 
 <br>
