@@ -20,7 +20,7 @@ Documentation
 <br> 
 
 **Cite**  
-Robert Koch Institute, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.18034874](https://doi.org/10.5281/zenodo.18034874)
+Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.18034874](https://doi.org/10.5281/zenodo.18034874)
 
 
 <br>
@@ -61,7 +61,7 @@ Here you find the interactive weekly report with the epidemiological evaluations
 
 It is based on the AMELAG wastewater surveillance data, which is available as open data:
 
-> Robert Koch-Institut, & Federal Environment Agency. (2025). Wastewater Surveillance AMELAG [Data set]. Zenodo. DOI: 10.5281/zenodo.10782701
+> Robert Koch-Institut, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. DOI: 10.5281/zenodo.10782701
 
 
 ## Administrative and organizational information
