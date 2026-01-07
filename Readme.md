@@ -19,7 +19,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.18034874](https://doi.org/10.5281/zenodo.18034874)
+Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.18034874](https://doi.org/10.5281/zenodo.18034874)
 
 <br>
 
@@ -61,7 +61,7 @@ An dieser Stelle finden Sie den interaktiven Wochenbericht mit den epidemiologis
 
 Die dem Bericht zugrundeliegenden Daten der Abwassersurveillance AMELAG sind als Open Data verfügbar:
 
-> Robert Koch-Institut, & Umweltbundesamt. (2025). Abwassersurveillance AMELAG [Data set]. Zenodo. DOI: 10.5281/zenodo.10782701
+> Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG [Data set]. Zenodo. DOI: 10.5281/zenodo.10782701
 
 ## Administrative und organisatorische Angaben 
 
