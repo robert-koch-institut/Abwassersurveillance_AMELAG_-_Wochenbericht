@@ -33,8 +33,8 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht
 license: CC-BY-4.0
-doi: 10.5281/zenodo.18034874
-version: '2025-12-23T15:50:26+01:00'
+doi: 10.5281/zenodo.18257341
+version: '2025-12-23T10:00:00+01:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
