@@ -93,7 +93,7 @@ To increase findability, the provided interactive report is described with metad
 
 > [Metadaten/](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/tree/main/Metadaten/)
 
-Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org). The metadata prepared for import into Zenodo are stored in the [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json). Documentation of the individual metadata variables can be found at [https://developers.zenodo.org/representation](https://developers.zenodo.org/#representation).
+Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org). The metadata prepared for import into Zenodo are stored in the [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json). Documentation of the individual metadata variables can be found at [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation).
 
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json)
 
