@@ -21,7 +21,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.19887356](https://doi.org/10.5281/zenodo.19887356)
+Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.20053897](https://doi.org/10.5281/zenodo.20053897)
 <!-- CITATION_END -->
 
 
