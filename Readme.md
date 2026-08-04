@@ -77,7 +77,7 @@ Ein Teil der Kläranlagen und Labore sind gleichzeitig in Projekten von Bundesl�
 
 Die Firma [ENDA](https://enda.eu/) wurde mit der Datenhaltung beauftragt. Die erhobenen Daten werden dort in einer Datenbank (PiA-Monitor) gespeichert und weiterverarbeitet. 
 
-Die Erarbeitung des interaktiven Berichts erfolgt durch das [Fachgebiet 32 | Surveillance](https://www.rki.de/fg32) und elektronisches Melde- und Informationssystem in Zusammenarbeit mit dem Fachgebiet [MF 2 | Fachdaten-Kompentenzzentrum](https://www.rki.de/mf2).
+Die Erarbeitung des interaktiven Berichts erfolgt durch das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem](https://www.rki.de/fg32) in Zusammenarbeit mit dem Fachgebiet [MF 2 | Fachdaten-Kompentenzzentrum](https://www.rki.de/mf2).
 
 Die Aufbereitung und Veröffentlichung der Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF 4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
