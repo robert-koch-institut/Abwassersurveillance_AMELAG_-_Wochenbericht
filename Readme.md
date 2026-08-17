@@ -65,7 +65,10 @@ An dieser Stelle finden Sie den interaktiven Wochenbericht mit den epidemiologis
 
 Die dem Bericht zugrundeliegenden Daten der Abwassersurveillance AMELAG sind als Open Data verfügbar:
 
+<!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Abwassersurveillance_AMELAG"} -->
 > Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10782701](https://doi.org/10.5281/zenodo.10782701)
+<!-- CITATION_END -->  
+
 
 ## Administrative und organisatorische Angaben 
 
@@ -77,7 +80,7 @@ Ein Teil der Kläranlagen und Labore sind gleichzeitig in Projekten von Bundesl�
 
 Die Firma [ENDA](https://enda.eu/) wurde mit der Datenhaltung beauftragt. Die erhobenen Daten werden dort in einer Datenbank (PiA-Monitor) gespeichert und weiterverarbeitet. 
 
-Die Erarbeitung des interaktiven Berichts erfolgt durch das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem](https://www.rki.de/fg32) in Zusammenarbeit mit dem Fachgebiet [MF 2 | Fachdaten-Kompentenzzentrum](https://www.rki.de/mf2).
+Die Erarbeitung des interaktiven Berichts erfolgt durch das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle](https://www.rki.de/fg32) in Zusammenarbeit mit dem Fachgebiet [MF 2 | Fachdaten-Kompentenzzentrum](https://www.rki.de/mf2).
 
 Die Aufbereitung und Veröffentlichung der Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF 4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 

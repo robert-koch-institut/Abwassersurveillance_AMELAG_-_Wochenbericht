@@ -67,7 +67,9 @@ Here you find the interactive weekly report with the epidemiological evaluations
 
 It is based on the AMELAG wastewater surveillance data, which is available as open data:
 
-> Robert Koch-Institut, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10782701](https://doi.org/10.5281/zenodo.10782701)
+<!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Abwassersurveillance_AMELAG"} -->
+> Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10782701](https://doi.org/10.5281/zenodo.10782701)
+<!-- CITATION_END -->  
 
 
 ## Administrative and organizational information
@@ -80,7 +82,7 @@ Some of the WWTPs and laboratories are also involved in wastewater surveillance 
 
 The company [ENDA](https://enda.eu/) was commissioned with data management. The data collected are stored and processed in a database (PiA-Monitor). 
 
-The interactive report is prepared by [Unit 32 | Surveillance ](https://www.rki.de/fg32-en) in collaboration with Unit [MF 2 | Domain Specific Data Competence Centre](https://www.rki.de/mf2-en).
+The interactive report is prepared by [Unit 32 | Surveillance and Electronic Repor­ting and Infor­ma­tion Sys­tem (DEMIS) | Focal Point for the Public Health Service](https://www.rki.de/fg32-en) in collaboration with Unit [MF 2 | Domain Specific Data Competence Centre](https://www.rki.de/mf2-en).
 
 The report is edited and published by the Unit [MF 4 | Domain Specific Data and Research Data Management](https://www.rki.de/mf4-en). Questions about data management and the publication infrastructure can be directed to the Open Data team of the MF4 department at [OpenData@rki.de](mailto:OpenData@rki.de).
 
