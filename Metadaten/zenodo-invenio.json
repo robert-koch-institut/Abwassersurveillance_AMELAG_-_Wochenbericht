@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "publication-report"
   },
-  "publication_date": "2026-08-26",
+  "publication_date": "2026-09-02",
   "creators": [
     {
       "person_or_org": {
@@ -27,10 +27,10 @@
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2026-08-26",
+  "version": "2026-09-02",
   "dates": [
     {
-      "date": "2026-08-26T15:04:48+02:00",
+      "date": "2026-09-02T15:07:54+02:00",
       "type": {
         "id": "created"
       },
