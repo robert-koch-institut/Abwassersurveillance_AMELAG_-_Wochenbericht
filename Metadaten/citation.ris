@@ -2,8 +2,8 @@ TY  - COMP
 AB  - Im interaktiven Bericht "Abwassersurveillance AMELAG - Wochenbericht" des Robert Koch-Instituts und Umweltbundesamts werden die Daten aus der Überwachung von Infektionserregern im Abwasser dargestellt. Die Daten zur SARS-CoV-2-Viruslast werden seit Februar 2022 in einem bundesweiten Netzwerk von Kläranlagen, Laboren und Behörden erhoben. Seitdem wurden die Daten um die Viruslast weiterer respiratorischer Viren (Influenza A/B, RSV) ergänzt. Der Bericht enthält neben Einzelwerten der Kläranlagen auch bevölkerungsgewichtete, aggregierte Zeitreihen.
 AU  - Robert Koch-Institut
 AU  - Umweltbundesamt
-DA  - 2026-09-16
-DO  - 10.5281/zenodo.22796102
+DA  - 2026-09-23
+DO  - 10.5281/zenodo.22918422
 KW  - COVID-19
 KW  - SARS-CoV-2
 KW  - Human Respiratory Syncytial Virus
@@ -24,6 +24,6 @@ KW  - RKI
 PY  - 2026
 TI  - Abwassersurveillance AMELAG - Wochenbericht
 UR  - https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht
-ET  - 2026-09-16
+ET  - 2026-09-23
 N1  - License: CC-BY-4.0
 ER  -
