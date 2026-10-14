@@ -60,14 +60,16 @@ The interactive report "Wastewater Surveillance AMELAG - Weekly Report" of the R
 In AMELAG ("Abwassermonitoring für die epidemiologische Lagebewertung", German for wastewater monitoring for epidemiological situation assessment) local authorities, wastewater treatment plants (WWTP) and laboratories are working together to take, analyze and evaluate wastewater samples. The project aims at testing wastewater samples for selected pathogens and to establish this as an additional indicator for the epidemiological situation assessment at state and federal level. Currently, wastewater samples from selected treatment plants are being tested for SARS-CoV-2, influenza viruses and respiratory syncytial viruses (RSV). This data is interactively visualized and contextualized in the "Wastewater Surveillance AMELAG - Weekly Report".
 
 ## Interactive report and data provision
-Here you find the interactive weekly report with the epidemiological evaluations of the wastewater monitoring data. 
+Here you can find the interactive weekly report with the epidemiological evaluations of the wastewater monitoring data. 
 
 > [Wastewater Surveillance AMELAG - Weekly Report](https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht)
 
 
 It is based on the AMELAG wastewater surveillance data, which is available as open data:
 
-> Robert Koch-Institut, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10782701](https://doi.org/10.5281/zenodo.10782701)
+<!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Abwassersurveillance_AMELAG"} -->
+> Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23210544](https://doi.org/10.5281/zenodo.23210544)
+<!-- CITATION_END -->  
 
 
 ## Administrative and organizational information
@@ -80,7 +82,7 @@ Some of the WWTPs and laboratories are also involved in wastewater surveillance 
 
 The company [ENDA](https://enda.eu/) was commissioned with data management. The data collected are stored and processed in a database (PiA-Monitor). 
 
-The interactive report is prepared by [Unit 32 | Surveillance ](https://www.rki.de/fg32-en) in collaboration with Unit [MF 2 | Domain Specific Data Competence Centre](https://www.rki.de/mf2-en).
+The interactive report is prepared by [Unit 32 | Surveillance and Electronic Repor­ting and Infor­ma­tion Sys­tem (DEMIS) | Focal Point for the Public Health Service](https://www.rki.de/fg32-en) in collaboration with Unit [MF 2 | Domain Specific Data Competence Centre](https://www.rki.de/mf2-en).
 
 The report is edited and published by the Unit [MF 4 | Domain Specific Data and Research Data Management](https://www.rki.de/mf4-en). Questions about data management and the publication infrastructure can be directed to the Open Data team of the MF4 department at [OpenData@rki.de](mailto:OpenData@rki.de).
 
@@ -99,7 +101,7 @@ Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org)
 
 ## Guidelines for reuse of the report
 
-This interactive reports published by the RKI is available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [OpenCoDE](https://gitlab.opencode.de):
+This interactive report published by the RKI is available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [OpenCoDE](https://gitlab.opencode.de):
 
 - [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)
 - [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)
