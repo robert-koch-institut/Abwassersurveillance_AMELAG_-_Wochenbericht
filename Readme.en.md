@@ -22,7 +22,7 @@ Documentation
 
 **Cite**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.23213471](https://doi.org/10.5281/zenodo.23213471)
+Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.23368571](https://doi.org/10.5281/zenodo.23368571)
 <!-- CITATION_END -->
 
 
@@ -68,7 +68,7 @@ Here you can find the interactive weekly report with the epidemiological evaluat
 It is based on the AMELAG wastewater surveillance data, which is available as open data:
 
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Abwassersurveillance_AMELAG"} -->
-> Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23210544](https://doi.org/10.5281/zenodo.23210544)
+> Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23364951](https://doi.org/10.5281/zenodo.23364951)
 <!-- CITATION_END -->  
 
 
@@ -101,7 +101,7 @@ Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org)
 
 ## Guidelines for reuse of the report
 
-This interactive report published by the RKI is available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [OpenCoDE](https://gitlab.opencode.de):
+This interactive reports published by the RKI is available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [OpenCoDE](https://gitlab.opencode.de):
 
 - [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)
 - [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)
