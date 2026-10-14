@@ -55,18 +55,18 @@ Im interaktiven Bericht "Abwassersurveillance AMELAG - Wochenbericht" des Robert
 
 
 ## Informationen zum Entstehungskontext
-Das Vorhaben "Abwassermonitoring für die epidemiologische Lagebewertung" (AMELAG) arbeiten Behörden, Kläranlagen und Labore zusammen, um Proben zu nehmen, zu analysieren und zu bewerten. Das Ziel dieses Vorhabens ist es, Erregernachweise aus dem Abwasser als zusätzlichen Indikator zur epidemiologischen Lagebewertung auf Länder- und Bundesebene zu etablieren. Aktuell werden Abwasserproben von ausgewählten Kläranlagen auf SARS-CoV-2, Influenzaviren und Respiratorische Synzytial-Viren (RSV) untersucht. Die erhobenen Daten werden im "Abwassersurveillance AMELAG - Wochenbericht"  interaktiv visualisiert und kontextualisiert.
+Im Vorhaben "Abwassermonitoring für die epidemiologische Lagebewertung" (AMELAG) arbeiten Behörden, Kläranlagen und Labore zusammen, um Proben zu nehmen, zu analysieren und zu bewerten. Das Ziel dieses Vorhabens ist es, Erregernachweise aus dem Abwasser als zusätzlichen Indikator zur epidemiologischen Lagebewertung auf Länder- und Bundesebene zu etablieren. Aktuell werden Abwasserproben von ausgewählten Kläranlagen auf SARS-CoV-2, Influenzaviren und Respiratorische Synzytial-Viren (RSV) untersucht. Die erhobenen Daten werden im "Abwassersurveillance AMELAG - Wochenbericht" interaktiv visualisiert und kontextualisiert.
 
 ## Interaktiver Bericht und Datenbereitstellung
 
-An dieser Stelle finden Sie den interaktiven Wochenbericht mit den epidemiologischen Auswertungen der Daten aus dem Abwassermonitorings.
+An dieser Stelle finden Sie den interaktiven Wochenbericht mit den epidemiologischen Auswertungen der Daten aus dem Abwassermonitoring.
 
 > [Abwassersurveillance AMELAG - Wochenbericht](https://robert-koch-institut.github.io/Abwassersurveillance_AMELAG_-_Wochenbericht)
 
 Die dem Bericht zugrundeliegenden Daten der Abwassersurveillance AMELAG sind als Open Data verfügbar:
 
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Abwassersurveillance_AMELAG"} -->
-> Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10782701](https://doi.org/10.5281/zenodo.10782701)
+> Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23210544](https://doi.org/10.5281/zenodo.23210544)
 <!-- CITATION_END -->  
 
 
@@ -76,11 +76,11 @@ AMELAG ist ein vom [Bundesministerium für Gesundheit (BMG)](https://www.bundesg
 Das Vorhaben wird vom Robert Koch-Institut (RKI) und [Umweltbundesamt (UBA)](https://www.umweltbundesamt.de/) gemeinsam durchgeführt. Weitere Informationen zu AMELAG finden Sie auf der [Projektwebseite](https://rki.de/abwassersurveillance).  
 Die Durchführung der Probenahme erfolgt durch die teilnehmenden Kläranlagen. Die Analyse der Proben erfolgt durch die teilnehmenden Labore. Neben kommerziellen Laboren, Landeslaboren und dem Umweltbundesamt führt der zentrale Sanitätsdienst der Bundeswehr einen Teil der Analytik durch.
 
-Ein Teil der Kläranlagen und Labore sind gleichzeitig in Projekten von Bundesländern zur Abwassersurveillance oder in anderen Forschungsprojekten beteiligt.  
+Ein Teil der Kläranlagen und Labore ist gleichzeitig in Projekten von Bundesländern zur Abwassersurveillance oder in anderen Forschungsprojekten beteiligt.  
 
 Die Firma [ENDA](https://enda.eu/) wurde mit der Datenhaltung beauftragt. Die erhobenen Daten werden dort in einer Datenbank (PiA-Monitor) gespeichert und weiterverarbeitet. 
 
-Die Erarbeitung des interaktiven Berichts erfolgt durch das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle](https://www.rki.de/fg32) in Zusammenarbeit mit dem Fachgebiet [MF 2 | Fachdaten-Kompentenzzentrum](https://www.rki.de/mf2).
+Die Erarbeitung des interaktiven Berichts erfolgt durch das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle](https://www.rki.de/fg32) in Zusammenarbeit mit dem Fachgebiet [MF 2 | Fachdaten-Kompetenzzentrum](https://www.rki.de/mf2).
 
 Die Aufbereitung und Veröffentlichung der Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF 4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
