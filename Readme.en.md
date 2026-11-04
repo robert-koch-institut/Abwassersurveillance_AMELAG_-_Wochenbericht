@@ -22,7 +22,7 @@ Documentation
 
 **Cite**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.23733197](https://doi.org/10.5281/zenodo.23733197)
+Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG - Weekly Report. Zenodo. [https://doi.org/10.5281/zenodo.23952389](https://doi.org/10.5281/zenodo.23952389)
 <!-- CITATION_END -->
 
 
@@ -33,7 +33,7 @@ The interactive report "Wastewater Surveillance AMELAG - Weekly Report" of the R
 
 <br>
 
-**Table of Content**  
+**Table of Contents**  
 
 <!-- TOC_START: {"heading_depth": 2} -->
   - [Information on the context of origin](#information-on-the-context-of-origin)  
@@ -68,7 +68,7 @@ Here you can find the interactive weekly report with the epidemiological evaluat
 It is based on the AMELAG wastewater surveillance data, which is available as open data:
 
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Abwassersurveillance_AMELAG"} -->
-> Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23729767](https://doi.org/10.5281/zenodo.23729767)
+> Robert Koch Institute, & Federal Environment Agency. (2026). Wastewater Surveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23947219](https://doi.org/10.5281/zenodo.23947219)
 <!-- CITATION_END -->  
 
 
@@ -101,7 +101,7 @@ Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org)
 
 ## Guidelines for reuse of the report
 
-This interactive reports published by the RKI is available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [OpenCoDE](https://gitlab.opencode.de):
+This interactive report published by the RKI is available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), and [OpenCoDE](https://gitlab.opencode.de):
 
 - [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)
 - [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)

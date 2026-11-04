@@ -21,7 +21,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.23733197](https://doi.org/10.5281/zenodo.23733197)
+Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG - Wochenbericht. Zenodo. [https://doi.org/10.5281/zenodo.23952389](https://doi.org/10.5281/zenodo.23952389)
 <!-- CITATION_END -->
 
 
@@ -66,7 +66,7 @@ An dieser Stelle finden Sie den interaktiven Wochenbericht mit den epidemiologis
 Die dem Bericht zugrundeliegenden Daten der Abwassersurveillance AMELAG sind als Open Data verfügbar:
 
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "quote", "publication_name": "Abwassersurveillance_AMELAG"} -->
-> Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23729767](https://doi.org/10.5281/zenodo.23729767)
+> Robert Koch-Institut, & Umweltbundesamt. (2026). Abwassersurveillance AMELAG [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23947219](https://doi.org/10.5281/zenodo.23947219)
 <!-- CITATION_END -->  
 
 
@@ -92,7 +92,7 @@ Zur Erhöhung der Auffindbarkeit ist der interaktive Bericht mit Metadaten besch
 
 > [Metadaten/](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
+Versionierung und DOI-Vergabe erfolgen über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/Metadaten/zenodo.json)  
 
@@ -108,7 +108,7 @@ Interaktive Berichte des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHu
 
 Der interaktive Bericht "Abwassersurveillance AMELAG - Wochenbericht" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Bericht bereitgestellten Informationen sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Berichts zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LIZENZ) Datei des Berichts.  
+Die im Bericht bereitgestellten Informationen sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Berichts zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LICENSE)- bzw. [LIZENZ](https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG_-_Wochenbericht/blob/main/LIZENZ)-Datei des Berichts.  
 <!-- FOOTER_END -->
 
 
